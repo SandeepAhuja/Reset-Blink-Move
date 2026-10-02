@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Recordatorios en pausa";
+"status.eyes_in" = "Ojos en %d min";
+"status.legs_in" = "Piernas en %d min";
+"status.running" = "Ejecutando";
+
+/* Menu */
+"menu.eye_break_now" = "Tomar un descanso visual ahora";
+"menu.leg_break_now" = "Descanso de movimiento de piernas ahora";
+"menu.preferences" = "Preferencias…";
+"menu.quit" = "Salir de Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Hora de un descanso 20-20-20 👁";
+"notif.eye.body" = "Mira algo a ~20 pies (6 m) de distancia durante %d segundos.";
+"notif.leg.title" = "Cuidado de piernas: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Levántate y muévete";
+"leg.tip1.body" = "Levántate y camina un minuto. El movimiento bombea sangre de vuelta a tus piernas.";
+"leg.tip2.title" = "Elevaciones de talones";
+"leg.tip2.body" = "15–20 elevaciones lentas de talones: sube de puntillas y luego baja. Ayuda al retorno venoso.";
+"leg.tip3.title" = "Bombas de tobillo";
+"leg.tip3.body" = "Señala y flexiona los pies 20 veces, luego gira los tobillos en ambas direcciones.";
+"leg.tip4.title" = "Eleva las piernas";
+"leg.tip4.body" = "Coloca las piernas por encima del nivel del corazón durante un par de minutos para ayudar al drenaje.";
+"leg.tip5.title" = "Da un corto paseo";
+"leg.tip5.body" = "Incluso caminar para buscar agua cuenta. Evita estar sentado quieto durante largos periodos.";
+"leg.tip6.title" = "Descruza y estira";
+"leg.tip6.body" = "Descruza las piernas y estira las pantorrillas — cruzarlas restringe el flujo sanguíneo.";
+
+/* Overlay */
+"overlay.title" = "Mira a otro lado %d segundos";
+"overlay.subtitle" = "Enfócate en algo a ~20 pies de distancia";
+"overlay.skip" = "Omitir";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Recordatorios de descanso de pantalla y circulación";
+"prefs.section.eyes" = "OJOS";
+"prefs.eye_interval" = "Recuérdame mirar a otro lado cada";
+"prefs.eye_break_duration" = "Mirar a otro lado durante";
+"prefs.show_overlay" = "Mostrar la tarjeta de descanso en pantalla";
+"prefs.play_sound" = "Reproducir sonido con los recordatorios";
+"prefs.section.legs" = "PIERNAS";
+"prefs.leg_interval" = "Recuérdame moverme cada";
+"prefs.section.general" = "GENERAL";
+"prefs.launch_at_login" = "Iniciar al iniciar sesión";
+"prefs.pause_reminders" = "Pausar todos los recordatorios";
+"prefs.take_eye_break" = "Tomar un descanso visual ahora";
+"prefs.take_leg_break" = "Descanso de piernas ahora";
+"prefs.version" = "Versión %@";
+"prefs.disclaimer" = "Recordatorios generales de bienestar — no es consejo médico.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 seg";
+"popup.sec.30" = "30 seg";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d seg";

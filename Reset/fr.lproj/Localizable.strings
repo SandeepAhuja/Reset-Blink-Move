@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Rappels en pause";
+"status.eyes_in" = "Yeux dans %d min";
+"status.legs_in" = "Jambes dans %d min";
+"status.running" = "En cours";
+
+/* Menu */
+"menu.eye_break_now" = "Prendre une pause visuelle maintenant";
+"menu.leg_break_now" = "Pause mouvement des jambes maintenant";
+"menu.preferences" = "Préférences…";
+"menu.quit" = "Quitter Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Heure d'une pause 20-20-20 👁";
+"notif.eye.body" = "Regardez quelque chose à ~20 pieds (6 m) pendant %d secondes.";
+"notif.leg.title" = "Soin des jambes : %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Levez-vous et bougez";
+"leg.tip1.body" = "Levez-vous et marchez une minute. Le mouvement pompe le sang vers vos jambes.";
+"leg.tip2.title" = "Montées sur la pointe des pieds";
+"leg.tip2.body" = "15–20 montées lentes sur la pointe des pieds : montez sur vos orteils, puis descendez. Aide au retour veineux.";
+"leg.tip3.title" = "Pompes de cheville";
+"leg.tip3.body" = "Pointez et fléchissez vos pieds 20 fois, puis faites tourner vos chevilles dans les deux sens.";
+"leg.tip4.title" = "Élevez les jambes";
+"leg.tip4.body" = "Posez vos jambes au-dessus du niveau du cœur quelques minutes pour faciliter le drainage.";
+"leg.tip5.title" = "Courte promenade";
+"leg.tip5.body" = "Même se lever pour aller chercher de l'eau compte. Évitez de rester assis longtemps.";
+"leg.tip6.title" = "Décroisez et étirez";
+"leg.tip6.body" = "Décroisez les jambes et étirez les mollets — les croiser restreint la circulation.";
+
+/* Overlay */
+"overlay.title" = "Regardez ailleurs %d secondes";
+"overlay.subtitle" = "Focalisez-vous sur quelque chose à ~20 pieds";
+"overlay.skip" = "Ignorer";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Rappels de pause écran et de circulation";
+"prefs.section.eyes" = "YEUX";
+"prefs.eye_interval" = "Me rappeler de regarder ailleurs toutes les";
+"prefs.eye_break_duration" = "Regarder ailleurs pendant";
+"prefs.show_overlay" = "Afficher la carte de pause à l'écran";
+"prefs.play_sound" = "Jouer un son avec les rappels";
+"prefs.section.legs" = "JAMBES";
+"prefs.leg_interval" = "Me rappeler de me lever toutes les";
+"prefs.section.general" = "GÉNÉRAL";
+"prefs.launch_at_login" = "Lancer à la connexion";
+"prefs.pause_reminders" = "Mettre en pause tous les rappels";
+"prefs.take_eye_break" = "Prendre une pause visuelle maintenant";
+"prefs.take_leg_break" = "Pause jambes maintenant";
+"prefs.version" = "Version %@";
+"prefs.disclaimer" = "Rappels généraux de bien-être — pas un conseil médical.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sec";
+"popup.sec.30" = "30 sec";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sec";

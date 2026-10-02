@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Reminders paused";
+"status.eyes_in" = "Eyes in %dm";
+"status.legs_in" = "Legs in %dm";
+"status.running" = "Running";
+
+/* Menu */
+"menu.eye_break_now" = "Take an eye break now";
+"menu.leg_break_now" = "Leg movement break now";
+"menu.preferences" = "Preferences…";
+"menu.quit" = "Quit Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Time for a 20-20-20 break 👁";
+"notif.eye.body" = "Look at something ~20 feet (6 m) away for %d seconds.";
+"notif.leg.title" = "Leg care: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Stand up & move";
+"leg.tip1.body" = "Stand and walk for a minute. Movement pumps blood back up your legs.";
+"leg.tip2.title" = "Calf raises";
+"leg.tip2.body" = "15–20 slow calf raises: rise onto your toes, then lower. Helps venous return.";
+"leg.tip3.title" = "Ankle pumps";
+"leg.tip3.body" = "Point and flex your feet 20 times, then roll your ankles both directions.";
+"leg.tip4.title" = "Elevate your legs";
+"leg.tip4.body" = "Prop your legs above heart level for a couple of minutes to aid drainage.";
+"leg.tip5.title" = "Take a short walk";
+"leg.tip5.body" = "Even a walk to get water counts. Avoid sitting still for long stretches.";
+"leg.tip6.title" = "Uncross & stretch";
+"leg.tip6.body" = "Uncross your legs and stretch your calves — crossing restricts flow.";
+
+/* Overlay */
+"overlay.title" = "Look away for %d seconds";
+"overlay.subtitle" = "Focus on something ~20 feet away";
+"overlay.skip" = "Skip";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Screen-break and circulation reminders";
+"prefs.section.eyes" = "EYES";
+"prefs.eye_interval" = "Remind me to look away every";
+"prefs.eye_break_duration" = "Look away for";
+"prefs.show_overlay" = "Show the on-screen break card";
+"prefs.play_sound" = "Play a sound with reminders";
+"prefs.section.legs" = "LEGS";
+"prefs.leg_interval" = "Remind me to move every";
+"prefs.section.general" = "GENERAL";
+"prefs.launch_at_login" = "Launch at login";
+"prefs.pause_reminders" = "Pause all reminders";
+"prefs.take_eye_break" = "Take eye break now";
+"prefs.take_leg_break" = "Leg break now";
+"prefs.version" = "Version %@";
+"prefs.disclaimer" = "General wellness reminders — not medical advice.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sec";
+"popup.sec.30" = "30 sec";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sec";

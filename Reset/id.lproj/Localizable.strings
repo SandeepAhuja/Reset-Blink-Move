@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Pengingat dijeda";
+"status.eyes_in" = "Mata dalam %d mnt";
+"status.legs_in" = "Kaki dalam %d mnt";
+"status.running" = "Berjalan";
+
+/* Menu */
+"menu.eye_break_now" = "Istirahat mata sekarang";
+"menu.leg_break_now" = "Istirahat gerak kaki sekarang";
+"menu.preferences" = "Preferensi…";
+"menu.quit" = "Keluar dari Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Saatnya istirahat 20-20-20 👁";
+"notif.eye.body" = "Lihat sesuatu sejauh ~20 kaki (6 m) selama %d detik.";
+"notif.leg.title" = "Perawatan kaki: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Berdiri dan bergerak";
+"leg.tip1.body" = "Berdirilah dan berjalan sebentar. Gerakan memompa darah kembali ke kaki Anda.";
+"leg.tip2.title" = "Angkat tumit";
+"leg.tip2.body" = "15–20 angkatan tumit lambat: naik ke ujung jari kaki, lalu turun. Membantu aliran balik vena.";
+"leg.tip3.title" = "Pompa pergelangan kaki";
+"leg.tip3.body" = "Arahkan dan tekuk kaki Anda 20 kali, lalu putar pergelangan kaki ke dua arah.";
+"leg.tip4.title" = "Angkat kaki";
+"leg.tip4.body" = "Letakkan kaki di atas level jantung selama beberapa menit untuk membantu drainase.";
+"leg.tip5.title" = "Jalan-jalan sebentar";
+"leg.tip5.body" = "Bahkan berjalan untuk mengambil air pun dihitung. Hindari duduk diam terlalu lama.";
+"leg.tip6.title" = "Lepaskan silangan dan regangkan";
+"leg.tip6.body" = "Lepaskan silangan kaki dan regangkan betis — menyilangkan kaki membatasi aliran darah.";
+
+/* Overlay */
+"overlay.title" = "Lihat ke lain arah selama %d detik";
+"overlay.subtitle" = "Fokus pada sesuatu sejauh ~20 kaki";
+"overlay.skip" = "Lewati";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Pengingat istirahat layar dan sirkulasi";
+"prefs.section.eyes" = "MATA";
+"prefs.eye_interval" = "Ingatkan saya untuk melihat ke lain arah setiap";
+"prefs.eye_break_duration" = "Lihat ke lain arah selama";
+"prefs.show_overlay" = "Tampilkan kartu istirahat di layar";
+"prefs.play_sound" = "Putar suara bersama pengingat";
+"prefs.section.legs" = "KAKI";
+"prefs.leg_interval" = "Ingatkan saya untuk bergerak setiap";
+"prefs.section.general" = "UMUM";
+"prefs.launch_at_login" = "Mulai saat login";
+"prefs.pause_reminders" = "Jeda semua pengingat";
+"prefs.take_eye_break" = "Istirahat mata sekarang";
+"prefs.take_leg_break" = "Istirahat kaki sekarang";
+"prefs.version" = "Versi %@";
+"prefs.disclaimer" = "Pengingat kesehatan umum — bukan saran medis.";
+
+/* Time popup options */
+"popup.min.15" = "15 mnt";
+"popup.min.20" = "20 mnt";
+"popup.min.25" = "25 mnt";
+"popup.min.30" = "30 mnt";
+"popup.min.45" = "45 mnt";
+"popup.min.60" = "60 mnt";
+"popup.sec.20" = "20 dtk";
+"popup.sec.30" = "30 dtk";
+"popup.minutes_format" = "%d mnt";
+"popup.seconds_format" = "%d dtk";

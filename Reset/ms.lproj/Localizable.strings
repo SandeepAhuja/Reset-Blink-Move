@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Peringatan dijeda";
+"status.eyes_in" = "Mata dalam %d min";
+"status.legs_in" = "Kaki dalam %d min";
+"status.running" = "Berjalan";
+
+/* Menu */
+"menu.eye_break_now" = "Berehat mata sekarang";
+"menu.leg_break_now" = "Rehat pergerakan kaki sekarang";
+"menu.preferences" = "Keutamaan…";
+"menu.quit" = "Keluar daripada Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Masa untuk rehat 20-20-20 👁";
+"notif.eye.body" = "Lihat sesuatu sejauh ~20 kaki (6 m) selama %d saat.";
+"notif.leg.title" = "Penjagaan kaki: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Bangun dan bergerak";
+"leg.tip1.body" = "Berdiri dan berjalan selama seminit. Pergerakan memompa darah kembali ke kaki anda.";
+"leg.tip2.title" = "Angkatan tumit";
+"leg.tip2.body" = "15–20 angkatan tumit perlahan: naik ke hujung jari kaki, kemudian turun. Membantu aliran balik vena.";
+"leg.tip3.title" = "Pam buku lali";
+"leg.tip3.body" = "Tunjuk dan lentur kaki anda 20 kali, kemudian putar buku lali ke kedua-dua arah.";
+"leg.tip4.title" = "Angkat kaki";
+"leg.tip4.body" = "Letakkan kaki anda di atas paras jantung selama beberapa minit untuk membantu saliran.";
+"leg.tip5.title" = "Berjalan sebentar";
+"leg.tip5.body" = "Walaupun berjalan untuk mengambil air dikira. Elakkan duduk diam untuk tempoh yang lama.";
+"leg.tip6.title" = "Buka silang dan regangkan";
+"leg.tip6.body" = "Buka kaki yang bersilang dan regangkan betis anda — menyilangkan kaki menyekat aliran darah.";
+
+/* Overlay */
+"overlay.title" = "Tengok ke arah lain selama %d saat";
+"overlay.subtitle" = "Fokus pada sesuatu sejauh ~20 kaki";
+"overlay.skip" = "Langkau";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Peringatan rehat skrin dan peredaran darah";
+"prefs.section.eyes" = "MATA";
+"prefs.eye_interval" = "Ingatkan saya untuk melihat jauh setiap";
+"prefs.eye_break_duration" = "Tengok jauh selama";
+"prefs.show_overlay" = "Tunjukkan kad rehat pada skrin";
+"prefs.play_sound" = "Mainkan bunyi dengan peringatan";
+"prefs.section.legs" = "KAKI";
+"prefs.leg_interval" = "Ingatkan saya untuk bergerak setiap";
+"prefs.section.general" = "UMUM";
+"prefs.launch_at_login" = "Lancar semasa log masuk";
+"prefs.pause_reminders" = "Jeda semua peringatan";
+"prefs.take_eye_break" = "Berehat mata sekarang";
+"prefs.take_leg_break" = "Rehat kaki sekarang";
+"prefs.version" = "Versi %@";
+"prefs.disclaimer" = "Peringatan kesihatan umum — bukan nasihat perubatan.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 saat";
+"popup.sec.30" = "30 saat";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d saat";

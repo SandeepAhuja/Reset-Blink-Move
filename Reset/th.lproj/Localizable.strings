@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "การแจ้งเตือนหยุดชั่วคราว";
+"status.eyes_in" = "ดวงตาใน %d นาที";
+"status.legs_in" = "ขาใน %d นาที";
+"status.running" = "กำลังทำงาน";
+
+/* Menu */
+"menu.eye_break_now" = "พักสายตาตอนนี้";
+"menu.leg_break_now" = "พักขยับขาตอนนี้";
+"menu.preferences" = "การตั้งค่า…";
+"menu.quit" = "ออกจาก Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "ถึงเวลาพักสายตา 20-20-20 แล้ว 👁";
+"notif.eye.body" = "มองไปที่สิ่งที่ห่างออกไป ~20 ฟุต (6 ม.) เป็นเวลา %d วินาที";
+"notif.leg.title" = "การดูแลขา: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "ลุกขึ้นและเคลื่อนไหว";
+"leg.tip1.body" = "ลุกขึ้นยืนและเดินสักหนึ่งนาที การเคลื่อนไหวช่วยสูบฉีดเลือดกลับขึ้นมาที่ขา";
+"leg.tip2.title" = "เขย่งปลายเท้า";
+"leg.tip2.body" = "เขย่งปลายเท้าช้าๆ 15–20 ครั้ง: ลุกขึ้นบนปลายนิ้วเท้า แล้วลดลง ช่วยการไหลเวียนเลือดดำ";
+"leg.tip3.title" = "ปั๊มข้อเท้า";
+"leg.tip3.body" = "กระดกและงอเท้า 20 ครั้ง แล้วหมุนข้อเท้าทั้งสองทิศทาง";
+"leg.tip4.title" = "ยกขาสูง";
+"leg.tip4.body" = "วางขาให้สูงกว่าระดับหัวใจสักสองสามนาทีเพื่อช่วยให้เลือดไหลเวียนได้ดีขึ้น";
+"leg.tip5.title" = "เดินสั้นๆ";
+"leg.tip5.body" = "แม้แต่การเดินไปหยิบน้ำก็นับ หลีกเลี่ยงการนั่งนิ่งเป็นเวลานาน";
+"leg.tip6.title" = "คลายไขว้ขาและยืด";
+"leg.tip6.body" = "คลายขาที่ไขว้กันและยืดน่อง การไขว้ขาจะทำให้เลือดไหลเวียนน้อยลง";
+
+/* Overlay */
+"overlay.title" = "มองออกไปไกล %d วินาที";
+"overlay.subtitle" = "โฟกัสไปที่สิ่งที่ห่างออกไป ~20 ฟุต";
+"overlay.skip" = "ข้าม";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "การแจ้งเตือนพักจากหน้าจอและการไหลเวียนโลหิต";
+"prefs.section.eyes" = "ดวงตา";
+"prefs.eye_interval" = "เตือนฉันให้มองออกไปทุกๆ";
+"prefs.eye_break_duration" = "มองออกไปนาน";
+"prefs.show_overlay" = "แสดงการ์ดพักบนหน้าจอ";
+"prefs.play_sound" = "เล่นเสียงพร้อมการแจ้งเตือน";
+"prefs.section.legs" = "ขา";
+"prefs.leg_interval" = "เตือนฉันให้เคลื่อนไหวทุกๆ";
+"prefs.section.general" = "ทั่วไป";
+"prefs.launch_at_login" = "เปิดเมื่อเข้าสู่ระบบ";
+"prefs.pause_reminders" = "หยุดการแจ้งเตือนทั้งหมดชั่วคราว";
+"prefs.take_eye_break" = "พักสายตาตอนนี้";
+"prefs.take_leg_break" = "พักขาตอนนี้";
+"prefs.version" = "เวอร์ชัน %@";
+"prefs.disclaimer" = "การแจ้งเตือนสุขภาพทั่วไป — ไม่ใช่คำแนะนำทางการแพทย์";
+
+/* Time popup options */
+"popup.min.15" = "15 นาที";
+"popup.min.20" = "20 นาที";
+"popup.min.25" = "25 นาที";
+"popup.min.30" = "30 นาที";
+"popup.min.45" = "45 นาที";
+"popup.min.60" = "60 นาที";
+"popup.sec.20" = "20 วินาที";
+"popup.sec.30" = "30 วินาที";
+"popup.minutes_format" = "%d นาที";
+"popup.seconds_format" = "%d วินาที";

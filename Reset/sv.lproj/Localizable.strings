@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Påminnelser pausade";
+"status.eyes_in" = "Ögon om %d min";
+"status.legs_in" = "Ben om %d min";
+"status.running" = "Kör";
+
+/* Menu */
+"menu.eye_break_now" = "Ta en ögonpaus nu";
+"menu.leg_break_now" = "Benrörelsepaus nu";
+"menu.preferences" = "Inställningar…";
+"menu.quit" = "Avsluta Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Dags för en 20-20-20-paus 👁";
+"notif.eye.body" = "Titta på något ~20 fot (6 m) bort i %d sekunder.";
+"notif.leg.title" = "Benvård: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Stå upp och rör på dig";
+"leg.tip1.body" = "Stå upp och gå en minut. Rörelse pumpar blod tillbaka till benen.";
+"leg.tip2.title" = "Tåhävningar";
+"leg.tip2.body" = "15–20 långsamma tåhävningar: höj dig på tå, sänk dig sedan. Hjälper venöst återflöde.";
+"leg.tip3.title" = "Fotledspumpar";
+"leg.tip3.body" = "Peka och böj fötterna 20 gånger, rulla sedan fotlederna i båda riktningarna.";
+"leg.tip4.title" = "Höj benen";
+"leg.tip4.body" = "Lägg benen över hjärtnivå i ett par minuter för att underlätta dränering.";
+"leg.tip5.title" = "Ta en kort promenad";
+"leg.tip5.body" = "Även en promenad för att hämta vatten räknas. Undvik att sitta stilla länge.";
+"leg.tip6.title" = "Korslägg och sträck";
+"leg.tip6.body" = "Lägg inte benen i kors och sträck vaderna — korsläggning begränsar blodflödet.";
+
+/* Overlay */
+"overlay.title" = "Titta bort i %d sekunder";
+"overlay.subtitle" = "Fokusera på något ~20 fot bort";
+"overlay.skip" = "Hoppa över";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Påminnelser om skärmpaus och cirkulation";
+"prefs.section.eyes" = "ÖGON";
+"prefs.eye_interval" = "Påminn mig att titta bort varje";
+"prefs.eye_break_duration" = "Titta bort i";
+"prefs.show_overlay" = "Visa pauskortet på skärmen";
+"prefs.play_sound" = "Spela ett ljud med påminnelser";
+"prefs.section.legs" = "BEN";
+"prefs.leg_interval" = "Påminn mig att röra på mig varje";
+"prefs.section.general" = "ALLMÄNT";
+"prefs.launch_at_login" = "Starta vid inloggning";
+"prefs.pause_reminders" = "Pausa alla påminnelser";
+"prefs.take_eye_break" = "Ta en ögonpaus nu";
+"prefs.take_leg_break" = "Benpaus nu";
+"prefs.version" = "Version %@";
+"prefs.disclaimer" = "Allmänna välmåendepåminnelser — inte medicinsk rådgivning.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sek";
+"popup.sec.30" = "30 sek";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sek";

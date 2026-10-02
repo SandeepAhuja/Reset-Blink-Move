@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "提醒已暂停";
+"status.eyes_in" = "%d 分钟后护眼";
+"status.legs_in" = "%d 分钟后活动腿部";
+"status.running" = "运行中";
+
+/* Menu */
+"menu.eye_break_now" = "立即护眼休息";
+"menu.leg_break_now" = "立即腿部活动";
+"menu.preferences" = "偏好设置…";
+"menu.quit" = "退出 Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "该进行 20-20-20 休息了 👁";
+"notif.eye.body" = "看 %d 秒距离约 20 英尺（6 米）远的物体。";
+"notif.leg.title" = "腿部护理：%@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "起身活动";
+"leg.tip1.body" = "站起来走动一分钟。运动能促进血液回流到腿部。";
+"leg.tip2.title" = "提踵练习";
+"leg.tip2.body" = "缓慢提踵 15–20 次：踮起脚尖，然后放下。有助于静脉回流。";
+"leg.tip3.title" = "踝泵运动";
+"leg.tip3.body" = "脚尖上下运动 20 次，再向两个方向转动踝关节。";
+"leg.tip4.title" = "抬高腿部";
+"leg.tip4.body" = "将腿抬至高于心脏的位置几分钟，促进血液回流。";
+"leg.tip5.title" = "短暂散步";
+"leg.tip5.body" = "就算只是走去倒杯水也算。避免长时间静坐不动。";
+"leg.tip6.title" = "解开翘腿并伸展";
+"leg.tip6.body" = "解开交叉的腿并伸展小腿肌肉——翘腿会阻碍血液流通。";
+
+/* Overlay */
+"overlay.title" = "眺望 %d 秒";
+"overlay.subtitle" = "注视约 20 英尺外的物体";
+"overlay.skip" = "跳过";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "屏幕休息与循环提醒";
+"prefs.section.eyes" = "眼睛";
+"prefs.eye_interval" = "每隔以下时间提醒我远眺";
+"prefs.eye_break_duration" = "远眺时长";
+"prefs.show_overlay" = "显示屏幕休息卡片";
+"prefs.play_sound" = "提醒时播放声音";
+"prefs.section.legs" = "腿部";
+"prefs.leg_interval" = "每隔以下时间提醒我活动";
+"prefs.section.general" = "通用";
+"prefs.launch_at_login" = "登录时启动";
+"prefs.pause_reminders" = "暂停所有提醒";
+"prefs.take_eye_break" = "立即护眼休息";
+"prefs.take_leg_break" = "立即腿部休息";
+"prefs.version" = "版本 %@";
+"prefs.disclaimer" = "一般健康提醒——非医疗建议。";
+
+/* Time popup options */
+"popup.min.15" = "15 分钟";
+"popup.min.20" = "20 分钟";
+"popup.min.25" = "25 分钟";
+"popup.min.30" = "30 分钟";
+"popup.min.45" = "45 分钟";
+"popup.min.60" = "60 分钟";
+"popup.sec.20" = "20 秒";
+"popup.sec.30" = "30 秒";
+"popup.minutes_format" = "%d 分钟";
+"popup.seconds_format" = "%d 秒";

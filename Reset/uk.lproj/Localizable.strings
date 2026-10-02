@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Нагадування на паузі";
+"status.eyes_in" = "Очі через %d хв";
+"status.legs_in" = "Ноги через %d хв";
+"status.running" = "Працює";
+
+/* Menu */
+"menu.eye_break_now" = "Зробити перерву для очей зараз";
+"menu.leg_break_now" = "Перерва для рухів ніг зараз";
+"menu.preferences" = "Налаштування…";
+"menu.quit" = "Вийти з Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Час для паузи 20-20-20 👁";
+"notif.eye.body" = "Подивіться на щось на відстані ~20 футів (6 м) протягом %d секунд.";
+"notif.leg.title" = "Догляд за ногами: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Встаньте і порухайтеся";
+"leg.tip1.body" = "Встаньте і походіть хвилину. Рух прокачує кров назад у ноги.";
+"leg.tip2.title" = "Підйоми на носки";
+"leg.tip2.body" = "15–20 повільних підйомів на носки: піднімайтеся на носки, потім опускайтеся. Допомагає венозному поверненню.";
+"leg.tip3.title" = "Насоси гомілковостопного суглоба";
+"leg.tip3.body" = "Витягуйте і згинайте стопи 20 разів, потім крутіть гомілковостопними суглобами в обох напрямках.";
+"leg.tip4.title" = "Підніміть ноги";
+"leg.tip4.body" = "Покладіть ноги вище рівня серця на кілька хвилин для покращення відтоку.";
+"leg.tip5.title" = "Коротка прогулянка";
+"leg.tip5.body" = "Навіть похід за водою рахується. Уникайте тривалого нерухомого сидіння.";
+"leg.tip6.title" = "Розімкніть і потягніться";
+"leg.tip6.body" = "Розімкніть схрещені ноги і потягніть литки — схрещування обмежує кровотік.";
+
+/* Overlay */
+"overlay.title" = "Подивіться вдаль на %d секунд";
+"overlay.subtitle" = "Зосередьтеся на чомусь на відстані ~20 футів";
+"overlay.skip" = "Пропустити";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Нагадування про перерви від екрана та кровообіг";
+"prefs.section.eyes" = "ОЧІ";
+"prefs.eye_interval" = "Нагадувати дивитися вдаль кожні";
+"prefs.eye_break_duration" = "Дивитися вдаль протягом";
+"prefs.show_overlay" = "Показувати картку перерви на екрані";
+"prefs.play_sound" = "Відтворювати звук з нагадуваннями";
+"prefs.section.legs" = "НОГИ";
+"prefs.leg_interval" = "Нагадувати рухатися кожні";
+"prefs.section.general" = "ЗАГАЛЬНЕ";
+"prefs.launch_at_login" = "Запускати під час входу";
+"prefs.pause_reminders" = "Призупинити всі нагадування";
+"prefs.take_eye_break" = "Зробити перерву для очей зараз";
+"prefs.take_leg_break" = "Перерва для ніг зараз";
+"prefs.version" = "Версія %@";
+"prefs.disclaimer" = "Загальні нагадування про здоров'я — не медична порада.";
+
+/* Time popup options */
+"popup.min.15" = "15 хв";
+"popup.min.20" = "20 хв";
+"popup.min.25" = "25 хв";
+"popup.min.30" = "30 хв";
+"popup.min.45" = "45 хв";
+"popup.min.60" = "60 хв";
+"popup.sec.20" = "20 сек";
+"popup.sec.30" = "30 сек";
+"popup.minutes_format" = "%d хв";
+"popup.seconds_format" = "%d сек";

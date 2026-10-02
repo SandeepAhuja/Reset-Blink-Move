@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Nhắc nhở đã tạm dừng";
+"status.eyes_in" = "Mắt sau %d phút";
+"status.legs_in" = "Chân sau %d phút";
+"status.running" = "Đang chạy";
+
+/* Menu */
+"menu.eye_break_now" = "Nghỉ mắt ngay bây giờ";
+"menu.leg_break_now" = "Nghỉ vận động chân ngay bây giờ";
+"menu.preferences" = "Tùy chọn…";
+"menu.quit" = "Thoát Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Đến giờ nghỉ 20-20-20 rồi 👁";
+"notif.eye.body" = "Nhìn vào vật cách khoảng ~20 feet (6 m) trong %d giây.";
+"notif.leg.title" = "Chăm sóc chân: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Đứng dậy và di chuyển";
+"leg.tip1.body" = "Đứng dậy và đi bộ trong một phút. Vận động giúp bơm máu trở lại chân.";
+"leg.tip2.title" = "Nâng gót chân";
+"leg.tip2.body" = "15–20 lần nâng gót chân chậm rãi: nâng lên đầu ngón chân, rồi hạ xuống. Giúp máu lưu thông trở về tim.";
+"leg.tip3.title" = "Bơm mắt cá chân";
+"leg.tip3.body" = "Co duỗi bàn chân 20 lần, sau đó xoay mắt cá chân theo cả hai chiều.";
+"leg.tip4.title" = "Nâng cao chân";
+"leg.tip4.body" = "Để chân cao hơn mức tim vài phút để hỗ trợ lưu thông máu.";
+"leg.tip5.title" = "Đi bộ ngắn";
+"leg.tip5.body" = "Ngay cả việc đi lấy nước cũng tính. Tránh ngồi yên quá lâu.";
+"leg.tip6.title" = "Duỗi và kéo giãn";
+"leg.tip6.body" = "Bỏ tư thế bắt chéo chân và kéo giãn bắp chân — bắt chéo chân hạn chế lưu lượng máu.";
+
+/* Overlay */
+"overlay.title" = "Nhìn xa trong %d giây";
+"overlay.subtitle" = "Tập trung vào vật cách khoảng ~20 feet";
+"overlay.skip" = "Bỏ qua";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Nhắc nhở nghỉ màn hình và lưu thông máu";
+"prefs.section.eyes" = "MẮT";
+"prefs.eye_interval" = "Nhắc tôi nhìn xa mỗi";
+"prefs.eye_break_duration" = "Nhìn xa trong";
+"prefs.show_overlay" = "Hiện thẻ nghỉ trên màn hình";
+"prefs.play_sound" = "Phát âm thanh kèm nhắc nhở";
+"prefs.section.legs" = "CHÂN";
+"prefs.leg_interval" = "Nhắc tôi vận động mỗi";
+"prefs.section.general" = "CHUNG";
+"prefs.launch_at_login" = "Khởi động khi đăng nhập";
+"prefs.pause_reminders" = "Tạm dừng tất cả nhắc nhở";
+"prefs.take_eye_break" = "Nghỉ mắt ngay bây giờ";
+"prefs.take_leg_break" = "Nghỉ chân ngay bây giờ";
+"prefs.version" = "Phiên bản %@";
+"prefs.disclaimer" = "Nhắc nhở sức khỏe tổng quát — không phải lời khuyên y tế.";
+
+/* Time popup options */
+"popup.min.15" = "15 phút";
+"popup.min.20" = "20 phút";
+"popup.min.25" = "25 phút";
+"popup.min.30" = "30 phút";
+"popup.min.45" = "45 phút";
+"popup.min.60" = "60 phút";
+"popup.sec.20" = "20 giây";
+"popup.sec.30" = "30 giây";
+"popup.minutes_format" = "%d phút";
+"popup.seconds_format" = "%d giây";

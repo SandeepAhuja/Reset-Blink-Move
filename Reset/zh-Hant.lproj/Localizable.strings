@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "提醒已暫停";
+"status.eyes_in" = "%d 分鐘後護眼";
+"status.legs_in" = "%d 分鐘後活動腿部";
+"status.running" = "執行中";
+
+/* Menu */
+"menu.eye_break_now" = "立即護眼休息";
+"menu.leg_break_now" = "立即腿部活動";
+"menu.preferences" = "偏好設定…";
+"menu.quit" = "結束 Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "該進行 20-20-20 休息了 👁";
+"notif.eye.body" = "看 %d 秒距離約 20 英尺（6 公尺）遠的物體。";
+"notif.leg.title" = "腿部護理：%@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "起身活動";
+"leg.tip1.body" = "站起來走動一分鐘。運動能促進血液回流到腿部。";
+"leg.tip2.title" = "提踵練習";
+"leg.tip2.body" = "緩慢提踵 15–20 次：踮起腳尖，然後放下。有助於靜脈回流。";
+"leg.tip3.title" = "踝泵運動";
+"leg.tip3.body" = "腳尖上下運動 20 次，再向兩個方向轉動踝關節。";
+"leg.tip4.title" = "抬高腿部";
+"leg.tip4.body" = "將腿抬至高於心臟的位置幾分鐘，促進血液回流。";
+"leg.tip5.title" = "短暫散步";
+"leg.tip5.body" = "就算只是走去倒杯水也算。避免長時間靜坐不動。";
+"leg.tip6.title" = "解開翹腿並伸展";
+"leg.tip6.body" = "解開交叉的腿並伸展小腿肌肉——翹腿會阻礙血液流通。";
+
+/* Overlay */
+"overlay.title" = "眺望 %d 秒";
+"overlay.subtitle" = "注視約 20 英尺外的物體";
+"overlay.skip" = "略過";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "螢幕休息與循環提醒";
+"prefs.section.eyes" = "眼睛";
+"prefs.eye_interval" = "每隔以下時間提醒我遠眺";
+"prefs.eye_break_duration" = "遠眺時長";
+"prefs.show_overlay" = "顯示螢幕休息卡片";
+"prefs.play_sound" = "提醒時播放聲音";
+"prefs.section.legs" = "腿部";
+"prefs.leg_interval" = "每隔以下時間提醒我活動";
+"prefs.section.general" = "一般";
+"prefs.launch_at_login" = "登入時啟動";
+"prefs.pause_reminders" = "暫停所有提醒";
+"prefs.take_eye_break" = "立即護眼休息";
+"prefs.take_leg_break" = "立即腿部休息";
+"prefs.version" = "版本 %@";
+"prefs.disclaimer" = "一般健康提醒——非醫療建議。";
+
+/* Time popup options */
+"popup.min.15" = "15 分鐘";
+"popup.min.20" = "20 分鐘";
+"popup.min.25" = "25 分鐘";
+"popup.min.30" = "30 分鐘";
+"popup.min.45" = "45 分鐘";
+"popup.min.60" = "60 分鐘";
+"popup.sec.20" = "20 秒";
+"popup.sec.30" = "30 秒";
+"popup.minutes_format" = "%d 分鐘";
+"popup.seconds_format" = "%d 秒";

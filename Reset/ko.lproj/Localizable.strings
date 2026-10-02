@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "알림 일시 중지됨";
+"status.eyes_in" = "%d분 후 눈 운동";
+"status.legs_in" = "%d분 후 다리 운동";
+"status.running" = "실행 중";
+
+/* Menu */
+"menu.eye_break_now" = "지금 눈 휴식 취하기";
+"menu.leg_break_now" = "지금 다리 운동 휴식";
+"menu.preferences" = "환경설정…";
+"menu.quit" = "Eye & Leg Care 종료";
+
+/* Notifications */
+"notif.eye.title" = "20-20-20 휴식 시간 👁";
+"notif.eye.body" = "%d초 동안 약 20피트(6m) 거리에 있는 것을 바라보세요.";
+"notif.leg.title" = "다리 케어: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "일어나서 움직이기";
+"leg.tip1.body" = "일어나서 1분간 걸어보세요. 움직임은 혈액을 다리로 다시 순환시킵니다.";
+"leg.tip2.title" = "종아리 들기";
+"leg.tip2.body" = "15–20회 천천히 종아리 들기: 발끝으로 올라갔다가 내려오세요. 정맥 귀환에 도움을 줍니다.";
+"leg.tip3.title" = "발목 펌프 운동";
+"leg.tip3.body" = "발을 20회 위아래로 구부렸다 폈다 하고, 양쪽 방향으로 발목을 돌려보세요.";
+"leg.tip4.title" = "다리 높이 올리기";
+"leg.tip4.body" = "몇 분간 다리를 심장 높이 위로 올려서 혈액 순환을 도와주세요.";
+"leg.tip5.title" = "짧은 산책";
+"leg.tip5.body" = "물 한 잔 가져오는 것도 충분합니다. 오랫동안 움직이지 않고 앉아 있는 것을 피하세요.";
+"leg.tip6.title" = "다리 풀고 스트레칭";
+"leg.tip6.body" = "다리를 꼬지 말고 종아리를 스트레칭하세요 — 다리를 꼬면 혈류가 제한됩니다.";
+
+/* Overlay */
+"overlay.title" = "%d초 동안 시선 돌리기";
+"overlay.subtitle" = "약 20피트 거리에 있는 것을 바라보세요";
+"overlay.skip" = "건너뛰기";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "화면 휴식과 혈액 순환 알림";
+"prefs.section.eyes" = "눈";
+"prefs.eye_interval" = "다음 간격으로 멀리 보도록 알림";
+"prefs.eye_break_duration" = "멀리 보기";
+"prefs.show_overlay" = "화면에 휴식 카드 표시";
+"prefs.play_sound" = "알림과 함께 소리 재생";
+"prefs.section.legs" = "다리";
+"prefs.leg_interval" = "다음 간격으로 움직이도록 알림";
+"prefs.section.general" = "일반";
+"prefs.launch_at_login" = "로그인 시 시작";
+"prefs.pause_reminders" = "모든 알림 일시 중지";
+"prefs.take_eye_break" = "지금 눈 휴식 취하기";
+"prefs.take_leg_break" = "지금 다리 휴식";
+"prefs.version" = "버전 %@";
+"prefs.disclaimer" = "일반 건강 알림 — 의료 조언이 아닙니다.";
+
+/* Time popup options */
+"popup.min.15" = "15분";
+"popup.min.20" = "20분";
+"popup.min.25" = "25분";
+"popup.min.30" = "30분";
+"popup.min.45" = "45분";
+"popup.min.60" = "60분";
+"popup.sec.20" = "20초";
+"popup.sec.30" = "30초";
+"popup.minutes_format" = "%d분";
+"popup.seconds_format" = "%d초";

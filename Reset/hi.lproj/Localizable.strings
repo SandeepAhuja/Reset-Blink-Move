@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "रिमाइंडर रोके गए";
+"status.eyes_in" = "%d मिनट में आँखें";
+"status.legs_in" = "%d मिनट में पैर";
+"status.running" = "चल रहा है";
+
+/* Menu */
+"menu.eye_break_now" = "अभी आँखों को आराम दें";
+"menu.leg_break_now" = "अभी पैरों की गतिविधि का ब्रेक";
+"menu.preferences" = "प्राथमिकताएँ…";
+"menu.quit" = "Eye & Leg Care बंद करें";
+
+/* Notifications */
+"notif.eye.title" = "20-20-20 ब्रेक का समय 👁";
+"notif.eye.body" = "%d सेकंड के लिए ~20 फीट (6 मी) दूर किसी चीज़ को देखें।";
+"notif.leg.title" = "पैरों की देखभाल: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "उठें और चलें";
+"leg.tip1.body" = "एक मिनट के लिए खड़े हों और चलें। हलचल पैरों में रक्त को वापस पंप करती है।";
+"leg.tip2.title" = "पंजों पर उठना";
+"leg.tip2.body" = "15–20 धीमे कैल्फ राइज़: पंजों पर उठें, फिर नीचे आएँ। शिरापरक वापसी में मदद करता है।";
+"leg.tip3.title" = "एड़ी पंप";
+"leg.tip3.body" = "20 बार पैरों को आगे-पीछे मोड़ें, फिर दोनों दिशाओं में एड़ियाँ घुमाएँ।";
+"leg.tip4.title" = "पैर ऊँचे करें";
+"leg.tip4.body" = "कुछ मिनटों के लिए पैरों को दिल के स्तर से ऊपर रखें, जिससे जल निकासी में सहायता हो।";
+"leg.tip5.title" = "छोटी सैर करें";
+"leg.tip5.body" = "पानी लेने जाना भी गिना जाता है। लंबे समय तक स्थिर बैठने से बचें।";
+"leg.tip6.title" = "पैर सीधे करें और खिंचाव लें";
+"leg.tip6.body" = "पैरों को क्रॉस न करें और पिंडलियों को खींचें — क्रॉस करने से रक्त प्रवाह सीमित होता है।";
+
+/* Overlay */
+"overlay.title" = "%d सेकंड के लिए दूर देखें";
+"overlay.subtitle" = "~20 फीट दूर किसी चीज़ पर ध्यान दें";
+"overlay.skip" = "छोड़ें";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "स्क्रीन-ब्रेक और रक्त संचार रिमाइंडर";
+"prefs.section.eyes" = "आँखें";
+"prefs.eye_interval" = "मुझे दूर देखने की याद दिलाएँ हर";
+"prefs.eye_break_duration" = "दूर देखें";
+"prefs.show_overlay" = "स्क्रीन पर ब्रेक कार्ड दिखाएँ";
+"prefs.play_sound" = "रिमाइंडर के साथ आवाज़ बजाएँ";
+"prefs.section.legs" = "पैर";
+"prefs.leg_interval" = "मुझे हिलने-डुलने की याद दिलाएँ हर";
+"prefs.section.general" = "सामान्य";
+"prefs.launch_at_login" = "लॉगिन पर लॉन्च करें";
+"prefs.pause_reminders" = "सभी रिमाइंडर रोकें";
+"prefs.take_eye_break" = "अभी आँखों को आराम दें";
+"prefs.take_leg_break" = "अभी पैरों का ब्रेक";
+"prefs.version" = "संस्करण %@";
+"prefs.disclaimer" = "सामान्य स्वास्थ्य रिमाइंडर — चिकित्सकीय सलाह नहीं।";
+
+/* Time popup options */
+"popup.min.15" = "15 मिनट";
+"popup.min.20" = "20 मिनट";
+"popup.min.25" = "25 मिनट";
+"popup.min.30" = "30 मिनट";
+"popup.min.45" = "45 मिनट";
+"popup.min.60" = "60 मिनट";
+"popup.sec.20" = "20 सेकंड";
+"popup.sec.30" = "30 सेकंड";
+"popup.minutes_format" = "%d मिनट";
+"popup.seconds_format" = "%d सेकंड";

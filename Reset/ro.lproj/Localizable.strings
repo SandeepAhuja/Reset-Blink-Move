@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Memento-uri în pauză";
+"status.eyes_in" = "Ochi în %d min";
+"status.legs_in" = "Picioare în %d min";
+"status.running" = "Rulează";
+
+/* Menu */
+"menu.eye_break_now" = "Fă o pauză pentru ochi acum";
+"menu.leg_break_now" = "Pauză de mișcare a picioarelor acum";
+"menu.preferences" = "Preferințe…";
+"menu.quit" = "Ieși din Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Timp pentru o pauză 20-20-20 👁";
+"notif.eye.body" = "Privește ceva la ~20 de picioare (6 m) distanță timp de %d secunde.";
+"notif.leg.title" = "Îngrijirea picioarelor: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Ridică-te și mișcă-te";
+"leg.tip1.body" = "Ridică-te și plimbă-te un minut. Mișcarea pompează sângele înapoi în picioare.";
+"leg.tip2.title" = "Ridicări pe vârfuri";
+"leg.tip2.body" = "15–20 ridicări lente pe vârfuri: ridică-te pe vârfuri, apoi coboară. Ajută la întoarcerea venoasă.";
+"leg.tip3.title" = "Pompele gleznelor";
+"leg.tip3.body" = "Îndoaie și întinde picioarele de 20 de ori, apoi rotește gleznele în ambele direcții.";
+"leg.tip4.title" = "Ridică picioarele";
+"leg.tip4.body" = "Pune picioarele mai sus decât nivelul inimii câteva minute pentru a ajuta drenajul.";
+"leg.tip5.title" = "O plimbare scurtă";
+"leg.tip5.body" = "Chiar și mersul după apă se contorizează. Evită să stai nemișcat timp îndelungat.";
+"leg.tip6.title" = "Dezcrucișează și întinde";
+"leg.tip6.body" = "Dezcrucișează picioarele și întinde gambele — încrucișarea restricționează fluxul sanguin.";
+
+/* Overlay */
+"overlay.title" = "Privește în altă parte %d secunde";
+"overlay.subtitle" = "Concentrează-te pe ceva la ~20 de picioare distanță";
+"overlay.skip" = "Omite";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Memento-uri de pauză de ecran și circulație";
+"prefs.section.eyes" = "OCHI";
+"prefs.eye_interval" = "Reamintește-mi să privesc în altă parte la fiecare";
+"prefs.eye_break_duration" = "Privește în altă parte";
+"prefs.show_overlay" = "Afișează cardul de pauză pe ecran";
+"prefs.play_sound" = "Redă un sunet cu memento-urile";
+"prefs.section.legs" = "PICIOARE";
+"prefs.leg_interval" = "Reamintește-mi să mă mișc la fiecare";
+"prefs.section.general" = "GENERAL";
+"prefs.launch_at_login" = "Pornire la autentificare";
+"prefs.pause_reminders" = "Pune toate memento-urile în pauză";
+"prefs.take_eye_break" = "Fă o pauză pentru ochi acum";
+"prefs.take_leg_break" = "Pauză pentru picioare acum";
+"prefs.version" = "Versiunea %@";
+"prefs.disclaimer" = "Memento-uri generale de bunăstare — nu sfaturi medicale.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sec";
+"popup.sec.30" = "30 sec";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sec";

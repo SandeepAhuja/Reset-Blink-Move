@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Emlékeztetők szünetelnek";
+"status.eyes_in" = "Szemek %d perc múlva";
+"status.legs_in" = "Lábak %d perc múlva";
+"status.running" = "Fut";
+
+/* Menu */
+"menu.eye_break_now" = "Vegyél szünetei szemnek most";
+"menu.leg_break_now" = "Lábmozgás szünet most";
+"menu.preferences" = "Beállítások…";
+"menu.quit" = "Kilépés az Eye & Leg Care-ből";
+
+/* Notifications */
+"notif.eye.title" = "Ideje egy 20-20-20 szünetnek 👁";
+"notif.eye.body" = "Nézz valamire ~20 lábra (6 m) %d másodpercig.";
+"notif.leg.title" = "Lábápolás: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Állj fel és mozogj";
+"leg.tip1.body" = "Állj fel és sétálj egy percig. A mozgás pumpálja a vért vissza a lábaidba.";
+"leg.tip2.title" = "Lábujjhegyre emelkedés";
+"leg.tip2.body" = "15–20 lassú lábujjhegyre emelkedés: emelkedj lábujjhegyre, majd ereszkedj le. Segíti a vénás visszaáramlást.";
+"leg.tip3.title" = "Boka pumpálás";
+"leg.tip3.body" = "20-szor hajlítsd és nyújtsd a lábfejed, majd forgasd a bokáidat mindkét irányba.";
+"leg.tip4.title" = "Emeld fel a lábaidat";
+"leg.tip4.body" = "Tegyél a lábaidat a szív szintje fölé néhány percre, hogy segítsd az elvezetést.";
+"leg.tip5.title" = "Rövid séta";
+"leg.tip5.body" = "Még a vízért tett séta is számít. Kerüld a hosszú mozdulatlan ülést.";
+"leg.tip6.title" = "Oldozd és nyújtsd";
+"leg.tip6.body" = "Tegyél be nem keresztezett lábakkal és nyújtsd a vádlidat — a keresztezés korlátozza az áramlást.";
+
+/* Overlay */
+"overlay.title" = "Nézz el %d másodpercig";
+"overlay.subtitle" = "Fókuszálj valamire ~20 lábnyira";
+"overlay.skip" = "Kihagyás";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Képernyő-szünet és keringési emlékeztetők";
+"prefs.section.eyes" = "SZEMEK";
+"prefs.eye_interval" = "Emlékeztess, hogy nézz el minden";
+"prefs.eye_break_duration" = "Nézz el";
+"prefs.show_overlay" = "Mutasd a szünetkártyát a képernyőn";
+"prefs.play_sound" = "Hang lejátszása emlékeztetőkkel";
+"prefs.section.legs" = "LÁBAK";
+"prefs.leg_interval" = "Emlékeztess mozogni minden";
+"prefs.section.general" = "ÁLTALÁNOS";
+"prefs.launch_at_login" = "Indítás bejelentkezéskor";
+"prefs.pause_reminders" = "Összes emlékeztető szüneteltetése";
+"prefs.take_eye_break" = "Szemszünet most";
+"prefs.take_leg_break" = "Lábszünet most";
+"prefs.version" = "Verzió: %@";
+"prefs.disclaimer" = "Általános jóléti emlékeztetők — nem orvosi tanács.";
+
+/* Time popup options */
+"popup.min.15" = "15 perc";
+"popup.min.20" = "20 perc";
+"popup.min.25" = "25 perc";
+"popup.min.30" = "30 perc";
+"popup.min.45" = "45 perc";
+"popup.min.60" = "60 perc";
+"popup.sec.20" = "20 mp";
+"popup.sec.30" = "30 mp";
+"popup.minutes_format" = "%d perc";
+"popup.seconds_format" = "%d mp";

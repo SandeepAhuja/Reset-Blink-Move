@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Przypomnienia wstrzymane";
+"status.eyes_in" = "Oczy za %d min";
+"status.legs_in" = "Nogi za %d min";
+"status.running" = "Działa";
+
+/* Menu */
+"menu.eye_break_now" = "Zrób przerwę dla oczu teraz";
+"menu.leg_break_now" = "Przerwa na ruch nóg teraz";
+"menu.preferences" = "Preferencje…";
+"menu.quit" = "Zamknij Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Czas na przerwę 20-20-20 👁";
+"notif.eye.body" = "Patrz na coś w odległości ~20 stóp (6 m) przez %d sekund.";
+"notif.leg.title" = "Pielęgnacja nóg: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Wstań i porusz się";
+"leg.tip1.body" = "Wstań i spaceruj przez minutę. Ruch pompuje krew z powrotem do nóg.";
+"leg.tip2.title" = "Wspięcia na palce";
+"leg.tip2.body" = "15–20 powolnych wspięć na palce: wejdź na palce, a następnie opuść się. Pomaga w powrocie żylnym.";
+"leg.tip3.title" = "Pompy stawu skokowego";
+"leg.tip3.body" = "Wskazuj i zginaj stopy 20 razy, a następnie obracaj kostki w obu kierunkach.";
+"leg.tip4.title" = "Unieś nogi";
+"leg.tip4.body" = "Połóż nogi powyżej poziomu serca na kilka minut, aby wspomóc odpływ płynów.";
+"leg.tip5.title" = "Krótki spacer";
+"leg.tip5.body" = "Nawet spacer po wodę się liczy. Unikaj długiego siedzenia bez ruchu.";
+"leg.tip6.title" = "Odskrzyżuj i rozciągnij";
+"leg.tip6.body" = "Odskrzyżuj nogi i rozciągnij łydki — krzyżowanie ogranicza przepływ krwi.";
+
+/* Overlay */
+"overlay.title" = "Patrz w dal przez %d sekund";
+"overlay.subtitle" = "Skup się na czymś w odległości ~20 stóp";
+"overlay.skip" = "Pomiń";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Przypomnienia o przerwach od ekranu i krążeniu";
+"prefs.section.eyes" = "OCZY";
+"prefs.eye_interval" = "Przypomnij mi o patrzeniu w dal co";
+"prefs.eye_break_duration" = "Patrz w dal przez";
+"prefs.show_overlay" = "Pokaż kartę przerwy na ekranie";
+"prefs.play_sound" = "Odtwórz dźwięk z przypomnieniami";
+"prefs.section.legs" = "NOGI";
+"prefs.leg_interval" = "Przypomnij mi o ruszeniu się co";
+"prefs.section.general" = "OGÓLNE";
+"prefs.launch_at_login" = "Uruchom przy logowaniu";
+"prefs.pause_reminders" = "Wstrzymaj wszystkie przypomnienia";
+"prefs.take_eye_break" = "Zrób przerwę dla oczu teraz";
+"prefs.take_leg_break" = "Przerwa dla nóg teraz";
+"prefs.version" = "Wersja %@";
+"prefs.disclaimer" = "Ogólne przypomnienia o zdrowiu — nie porady medyczne.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sek";
+"popup.sec.30" = "30 sek";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sek";

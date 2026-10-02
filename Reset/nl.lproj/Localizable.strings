@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Herinneringen gepauzeerd";
+"status.eyes_in" = "Ogen over %d min";
+"status.legs_in" = "Benen over %d min";
+"status.running" = "Actief";
+
+/* Menu */
+"menu.eye_break_now" = "Neem nu een oogpauze";
+"menu.leg_break_now" = "Beenbewegingspauze nu";
+"menu.preferences" = "Voorkeuren…";
+"menu.quit" = "Sluit Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Tijd voor een 20-20-20 pauze 👁";
+"notif.eye.body" = "Kijk %d seconden naar iets op ~20 voet (6 m) afstand.";
+"notif.leg.title" = "Beenverzorging: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Sta op en beweeg";
+"leg.tip1.body" = "Sta op en loop een minuutje. Beweging pompt bloed terug naar je benen.";
+"leg.tip2.title" = "Kuitverheffingen";
+"leg.tip2.body" = "15–20 langzame kuitverheffingen: ga op je tenen staan, dan zakken. Helpt bij veneuze terugkeer.";
+"leg.tip3.title" = "Enkelpompen";
+"leg.tip3.body" = "Strek en buig je voeten 20 keer, rol dan je enkels in beide richtingen.";
+"leg.tip4.title" = "Verhef je benen";
+"leg.tip4.body" = "Leg je benen een paar minuten boven hartniveau om de afvoer te bevorderen.";
+"leg.tip5.title" = "Maak een korte wandeling";
+"leg.tip5.body" = "Zelfs lopen om water te halen telt mee. Vermijd lang stilzitten.";
+"leg.tip6.title" = "Uncross en strek";
+"leg.tip6.body" = "Kruis je benen los en strek je kuiten — gekruiste benen beperken de bloedstroom.";
+
+/* Overlay */
+"overlay.title" = "Kijk %d seconden weg";
+"overlay.subtitle" = "Focus op iets op ~20 voet afstand";
+"overlay.skip" = "Overslaan";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Schermpauzeer- en circulatieherinneringen";
+"prefs.section.eyes" = "OGEN";
+"prefs.eye_interval" = "Herinner me om weg te kijken elke";
+"prefs.eye_break_duration" = "Kijk weg voor";
+"prefs.show_overlay" = "Toon de pauzekaart op het scherm";
+"prefs.play_sound" = "Speel een geluid af bij herinneringen";
+"prefs.section.legs" = "BENEN";
+"prefs.leg_interval" = "Herinner me om te bewegen elke";
+"prefs.section.general" = "ALGEMEEN";
+"prefs.launch_at_login" = "Starten bij aanmelden";
+"prefs.pause_reminders" = "Pauzeer alle herinneringen";
+"prefs.take_eye_break" = "Neem nu een oogpauze";
+"prefs.take_leg_break" = "Beenpauze nu";
+"prefs.version" = "Versie %@";
+"prefs.disclaimer" = "Algemene welzijnsherinneringen — geen medisch advies.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sec";
+"popup.sec.30" = "30 sec";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sec";

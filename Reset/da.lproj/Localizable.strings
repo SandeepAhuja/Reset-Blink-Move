@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Påmindelser sat på pause";
+"status.eyes_in" = "Øjne om %d min";
+"status.legs_in" = "Ben om %d min";
+"status.running" = "Kører";
+
+/* Menu */
+"menu.eye_break_now" = "Tag en øjenpause nu";
+"menu.leg_break_now" = "Benbevægelsesstop nu";
+"menu.preferences" = "Indstillinger…";
+"menu.quit" = "Afslut Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Tid til en 20-20-20 pause 👁";
+"notif.eye.body" = "Se på noget ~20 fod (6 m) væk i %d sekunder.";
+"notif.leg.title" = "Benpleje: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Stå op og bevæg dig";
+"leg.tip1.body" = "Stå op og gå i et minut. Bevægelse pumper blod tilbage til benene.";
+"leg.tip2.title" = "Tåhævninger";
+"leg.tip2.body" = "15–20 langsomme tåhævninger: rejs dig på tæerne, sænk dig derefter. Hjælper venøs tilbagevenden.";
+"leg.tip3.title" = "Ankelpumper";
+"leg.tip3.body" = "Peg og bøj dine fødder 20 gange, og rul derefter dine ankler i begge retninger.";
+"leg.tip4.title" = "Løft dine ben";
+"leg.tip4.body" = "Placer dine ben over hjerteniveau i et par minutter for at hjælpe dræningen.";
+"leg.tip5.title" = "Tag en kort gåtur";
+"leg.tip5.body" = "Selv en tur for at hente vand tæller. Undgå at sidde stille i lange perioder.";
+"leg.tip6.title" = "Kryds af og stræk";
+"leg.tip6.body" = "Kryds dine ben ud og stræk lægmusklerne — krydsning begrænser flowet.";
+
+/* Overlay */
+"overlay.title" = "Se væk i %d sekunder";
+"overlay.subtitle" = "Fokuser på noget ~20 fod væk";
+"overlay.skip" = "Spring over";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Skærmpause- og cirkulationspåmindelser";
+"prefs.section.eyes" = "ØJNE";
+"prefs.eye_interval" = "Påmind mig om at se væk hver";
+"prefs.eye_break_duration" = "Se væk i";
+"prefs.show_overlay" = "Vis pausekortet på skærmen";
+"prefs.play_sound" = "Afspil en lyd med påmindelser";
+"prefs.section.legs" = "BEN";
+"prefs.leg_interval" = "Påmind mig om at bevæge mig hver";
+"prefs.section.general" = "GENERELT";
+"prefs.launch_at_login" = "Start ved login";
+"prefs.pause_reminders" = "Sæt alle påmindelser på pause";
+"prefs.take_eye_break" = "Tag en øjenpause nu";
+"prefs.take_leg_break" = "Benpause nu";
+"prefs.version" = "Version %@";
+"prefs.disclaimer" = "Generelle sundhedspåmindelser — ikke medicinsk rådgivning.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sek";
+"popup.sec.30" = "30 sek";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sek";

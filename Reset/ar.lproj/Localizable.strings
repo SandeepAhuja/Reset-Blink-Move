@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "التذكيرات متوقفة مؤقتاً";
+"status.eyes_in" = "العين بعد %d دقيقة";
+"status.legs_in" = "الساقان بعد %d دقيقة";
+"status.running" = "يعمل";
+
+/* Menu */
+"menu.eye_break_now" = "خذ استراحة للعين الآن";
+"menu.leg_break_now" = "استراحة حركة الساق الآن";
+"menu.preferences" = "التفضيلات…";
+"menu.quit" = "إنهاء Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "حان وقت استراحة 20-20-20 👁";
+"notif.eye.body" = "انظر إلى شيء على بُعد ~20 قدماً (6 م) لمدة %d ثانية.";
+"notif.leg.title" = "العناية بالساق: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "قم وتحرك";
+"leg.tip1.body" = "قف وامشِ لمدة دقيقة. تساعد الحركة على ضخ الدم إلى ساقيك.";
+"leg.tip2.title" = "رفع الكعب";
+"leg.tip2.body" = "15–20 رفعة للكعب ببطء: ارتفع على أصابع قدميك، ثم انزل. يساعد على العودة الوريدية.";
+"leg.tip3.title" = "ضخ الكاحل";
+"leg.tip3.body" = "أشر بقدميك وثنِهما 20 مرة، ثم لف كاحليك في كلا الاتجاهين.";
+"leg.tip4.title" = "ارفع ساقيك";
+"leg.tip4.body" = "ضع ساقيك فوق مستوى القلب لبضع دقائق لمساعدة التصريف.";
+"leg.tip5.title" = "خذ نزهة قصيرة";
+"leg.tip5.body" = "حتى المشي للحصول على الماء يُحتسب. تجنب الجلوس بلا حراك لفترات طويلة.";
+"leg.tip6.title" = "افتح ساقيك وتمدد";
+"leg.tip6.body" = "افتح ساقيك المتقاطعتين ومدّد عضلات ساقيك — التقاطع يقيد تدفق الدم.";
+
+/* Overlay */
+"overlay.title" = "انظر بعيداً لمدة %d ثانية";
+"overlay.subtitle" = "ركز على شيء على بُعد ~20 قدماً";
+"overlay.skip" = "تخطي";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "تذكيرات استراحة الشاشة وتحسين الدورة الدموية";
+"prefs.section.eyes" = "العيون";
+"prefs.eye_interval" = "ذكّرني بالنظر بعيداً كل";
+"prefs.eye_break_duration" = "انظر بعيداً لمدة";
+"prefs.show_overlay" = "إظهار بطاقة الاستراحة على الشاشة";
+"prefs.play_sound" = "تشغيل صوت مع التذكيرات";
+"prefs.section.legs" = "الساقان";
+"prefs.leg_interval" = "ذكّرني بالتحرك كل";
+"prefs.section.general" = "عام";
+"prefs.launch_at_login" = "التشغيل عند تسجيل الدخول";
+"prefs.pause_reminders" = "إيقاف جميع التذكيرات مؤقتاً";
+"prefs.take_eye_break" = "خذ استراحة للعين الآن";
+"prefs.take_leg_break" = "استراحة الساق الآن";
+"prefs.version" = "الإصدار %@";
+"prefs.disclaimer" = "تذكيرات للصحة العامة — ليست نصائح طبية.";
+
+/* Time popup options */
+"popup.min.15" = "15 دقيقة";
+"popup.min.20" = "20 دقيقة";
+"popup.min.25" = "25 دقيقة";
+"popup.min.30" = "30 دقيقة";
+"popup.min.45" = "45 دقيقة";
+"popup.min.60" = "60 دقيقة";
+"popup.sec.20" = "20 ثانية";
+"popup.sec.30" = "30 ثانية";
+"popup.minutes_format" = "%d دقيقة";
+"popup.seconds_format" = "%d ثانية";

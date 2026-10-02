@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Připomenutí pozastavena";
+"status.eyes_in" = "Oči za %d min";
+"status.legs_in" = "Nohy za %d min";
+"status.running" = "Spuštěno";
+
+/* Menu */
+"menu.eye_break_now" = "Nyní si dopřejte přestávku pro oči";
+"menu.leg_break_now" = "Přestávka pro pohyb nohou nyní";
+"menu.preferences" = "Předvolby…";
+"menu.quit" = "Ukončit Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Čas na přestávku 20-20-20 👁";
+"notif.eye.body" = "Dívejte se na něco vzdáleného ~20 stop (6 m) po dobu %d sekund.";
+"notif.leg.title" = "Péče o nohy: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Vstaňte a pohybujte se";
+"leg.tip1.body" = "Vstaňte a chvilku choďte. Pohyb čerpá krev zpět do nohou.";
+"leg.tip2.title" = "Zvedání na špičky";
+"leg.tip2.body" = "15–20 pomalých zvednutí na špičky: zvedněte se na špičky, poté se spusťte. Pomáhá žilnímu návratu.";
+"leg.tip3.title" = "Pumpování kotníků";
+"leg.tip3.body" = "Ohýbejte a natahujte nohy 20krát, poté otáčejte kotníky oběma směry.";
+"leg.tip4.title" = "Zvedněte nohy";
+"leg.tip4.body" = "Opřete nohy výše než je úroveň srdce na několik minut, abyste podpořili odvod tekutin.";
+"leg.tip5.title" = "Krátká procházka";
+"leg.tip5.body" = "Počítá se i chůze pro vodu. Vyhněte se dlouhému sezení bez pohybu.";
+"leg.tip6.title" = "Rozkřižte a protáhněte";
+"leg.tip6.body" = "Rozkřižte nohy a protáhněte lýtka — křížení omezuje průtok.";
+
+/* Overlay */
+"overlay.title" = "Podívejte se jinam po dobu %d sekund";
+"overlay.subtitle" = "Zaměřte se na něco vzdálené ~20 stop";
+"overlay.skip" = "Přeskočit";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Připomenutí přestávek od obrazovky a cirkulace";
+"prefs.section.eyes" = "OČI";
+"prefs.eye_interval" = "Připomínat mi odhlédnutí každých";
+"prefs.eye_break_duration" = "Dívat se jinam po dobu";
+"prefs.show_overlay" = "Zobrazit kartu přestávky na obrazovce";
+"prefs.play_sound" = "Přehrát zvuk s připomenutími";
+"prefs.section.legs" = "NOHY";
+"prefs.leg_interval" = "Připomínat mi pohyb každých";
+"prefs.section.general" = "OBECNÉ";
+"prefs.launch_at_login" = "Spustit při přihlášení";
+"prefs.pause_reminders" = "Pozastavit všechna připomenutí";
+"prefs.take_eye_break" = "Nyní si dopřejte přestávku pro oči";
+"prefs.take_leg_break" = "Nyní přestávka pro nohy";
+"prefs.version" = "Verze %@";
+"prefs.disclaimer" = "Obecná připomenutí pro zdraví — ne lékařská rada.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sek";
+"popup.sec.30" = "30 sek";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sek";

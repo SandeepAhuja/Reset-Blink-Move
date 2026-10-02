@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Recordatoris pausats";
+"status.eyes_in" = "Ulls en %d min";
+"status.legs_in" = "Cames en %d min";
+"status.running" = "En execució";
+
+/* Menu */
+"menu.eye_break_now" = "Fes una pausa ocular ara";
+"menu.leg_break_now" = "Pausa de moviment de cames ara";
+"menu.preferences" = "Preferències…";
+"menu.quit" = "Surt d'Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Hora d'una pausa 20-20-20 👁";
+"notif.eye.body" = "Mira alguna cosa a ~20 peus (6 m) de distància durant %d segons.";
+"notif.leg.title" = "Cura de cames: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Aixeca't i mou-te";
+"leg.tip1.body" = "Aixeca't i camina un minut. El moviment fa circular la sang per les teves cames.";
+"leg.tip2.title" = "Elevacions de bessons";
+"leg.tip2.body" = "15–20 elevacions lentes de bessons: posa't de puntetes i baixa. Ajuda al retorn venós.";
+"leg.tip3.title" = "Bombes de turmell";
+"leg.tip3.body" = "Apunta i dobla els peus 20 vegades, i gira els turmells en ambdues direccions.";
+"leg.tip4.title" = "Eleva les cames";
+"leg.tip4.body" = "Posa les cames per sobre del nivell del cor durant uns minuts per afavorir el drenatge.";
+"leg.tip5.title" = "Fes un passeig curt";
+"leg.tip5.body" = "Fins i tot caminar per agafar aigua compta. Evita estar assegut durant períodes llargs.";
+"leg.tip6.title" = "Descreua i estira";
+"leg.tip6.body" = "Descreua les cames i estira els bessons — creuar-les restringeix la circulació.";
+
+/* Overlay */
+"overlay.title" = "Mira cap a un altre costat durant %d segons";
+"overlay.subtitle" = "Enfoca't en alguna cosa a ~20 peus de distància";
+"overlay.skip" = "Ometre";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Recordatoris de pauses de pantalla i circulació";
+"prefs.section.eyes" = "ULLS";
+"prefs.eye_interval" = "Recorda'm que miri cap a un altre costat cada";
+"prefs.eye_break_duration" = "Mira cap a un altre costat durant";
+"prefs.show_overlay" = "Mostra la targeta de pausa a la pantalla";
+"prefs.play_sound" = "Reprodueix un so amb els recordatoris";
+"prefs.section.legs" = "CAMES";
+"prefs.leg_interval" = "Recorda'm que em mogui cada";
+"prefs.section.general" = "GENERAL";
+"prefs.launch_at_login" = "Inicia en iniciar sessió";
+"prefs.pause_reminders" = "Pausa tots els recordatoris";
+"prefs.take_eye_break" = "Fes una pausa ocular ara";
+"prefs.take_leg_break" = "Pausa de cames ara";
+"prefs.version" = "Versió %@";
+"prefs.disclaimer" = "Recordatoris de benestar general — no és consell mèdic.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 seg";
+"popup.sec.30" = "30 seg";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d seg";

@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Напоминания на паузе";
+"status.eyes_in" = "Глаза через %d мин";
+"status.legs_in" = "Ноги через %d мин";
+"status.running" = "Работает";
+
+/* Menu */
+"menu.eye_break_now" = "Сделать перерыв для глаз сейчас";
+"menu.leg_break_now" = "Перерыв для движения ног сейчас";
+"menu.preferences" = "Настройки…";
+"menu.quit" = "Выйти из Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Время для паузы 20-20-20 👁";
+"notif.eye.body" = "Посмотрите на что-нибудь на расстоянии ~20 футов (6 м) в течение %d секунд.";
+"notif.leg.title" = "Уход за ногами: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Встаньте и подвигайтесь";
+"leg.tip1.body" = "Встаньте и походите минуту. Движение прокачивает кровь обратно в ноги.";
+"leg.tip2.title" = "Подъёмы на носки";
+"leg.tip2.body" = "15–20 медленных подъёмов на носки: поднимитесь на носки, затем опуститесь. Помогает венозному возврату.";
+"leg.tip3.title" = "Насосы голеностопа";
+"leg.tip3.body" = "Вытяните и согните стопы 20 раз, затем покрутите голеностопные суставы в обе стороны.";
+"leg.tip4.title" = "Поднимите ноги";
+"leg.tip4.body" = "Положите ноги выше уровня сердца на несколько минут для облегчения оттока.";
+"leg.tip5.title" = "Короткая прогулка";
+"leg.tip5.body" = "Даже поход за водой считается. Избегайте долгого неподвижного сидения.";
+"leg.tip6.title" = "Разомкните и потянитесь";
+"leg.tip6.body" = "Разомкните скрещенные ноги и потяните икры — скрещивание ограничивает кровоток.";
+
+/* Overlay */
+"overlay.title" = "Посмотрите вдаль на %d секунд";
+"overlay.subtitle" = "Сфокусируйтесь на чём-то на расстоянии ~20 футов";
+"overlay.skip" = "Пропустить";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Напоминания о перерывах от экрана и кровообращении";
+"prefs.section.eyes" = "ГЛАЗА";
+"prefs.eye_interval" = "Напоминать смотреть вдаль каждые";
+"prefs.eye_break_duration" = "Смотреть вдаль в течение";
+"prefs.show_overlay" = "Показывать карточку перерыва на экране";
+"prefs.play_sound" = "Воспроизводить звук при напоминаниях";
+"prefs.section.legs" = "НОГИ";
+"prefs.leg_interval" = "Напоминать двигаться каждые";
+"prefs.section.general" = "ОБЩЕЕ";
+"prefs.launch_at_login" = "Запускать при входе";
+"prefs.pause_reminders" = "Приостановить все напоминания";
+"prefs.take_eye_break" = "Сделать перерыв для глаз сейчас";
+"prefs.take_leg_break" = "Перерыв для ног сейчас";
+"prefs.version" = "Версия %@";
+"prefs.disclaimer" = "Общие напоминания о здоровье — не медицинский совет.";
+
+/* Time popup options */
+"popup.min.15" = "15 мин";
+"popup.min.20" = "20 мин";
+"popup.min.25" = "25 мин";
+"popup.min.30" = "30 мин";
+"popup.min.45" = "45 мин";
+"popup.min.60" = "60 мин";
+"popup.sec.20" = "20 сек";
+"popup.sec.30" = "30 сек";
+"popup.minutes_format" = "%d мин";
+"popup.seconds_format" = "%d сек";

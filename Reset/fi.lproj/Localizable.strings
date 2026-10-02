@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Muistutukset tauolla";
+"status.eyes_in" = "Silmät %d min kuluttua";
+"status.legs_in" = "Jalat %d min kuluttua";
+"status.running" = "Käynnissä";
+
+/* Menu */
+"menu.eye_break_now" = "Pidä silmätauko nyt";
+"menu.leg_break_now" = "Jalkojen liikuntatuoko nyt";
+"menu.preferences" = "Asetukset…";
+"menu.quit" = "Lopeta Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Aika 20-20-20-tauolle 👁";
+"notif.eye.body" = "Katso jotain noin 20 jalan (6 m) etäisyydellä olevaa %d sekunnin ajan.";
+"notif.leg.title" = "Jalkojen hoito: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Nouse ylös ja liiku";
+"leg.tip1.body" = "Nouse ylös ja kävele hetki. Liike pumppaa verta takaisin jalkoihin.";
+"leg.tip2.title" = "Pohjenousut";
+"leg.tip2.body" = "15–20 hidasta pohjenousua: nouse varpaillesi, laske sitten alas. Auttaa laskimopaluuta.";
+"leg.tip3.title" = "Nilkkapumput";
+"leg.tip3.body" = "Osoita ja taivuta jalkoja 20 kertaa, sitten pyörittele nilkkoja molempiin suuntiin.";
+"leg.tip4.title" = "Nosta jalkoja";
+"leg.tip4.body" = "Aseta jalat sydämen tason yläpuolelle muutamaksi minuutiksi nesteiden poistumisen helpottamiseksi.";
+"leg.tip5.title" = "Lyhyt kävely";
+"leg.tip5.body" = "Jopa vesilasille käyminen lasketaan. Vältä pitkiä paikallaan istumisen jaksoja.";
+"leg.tip6.title" = "Avaa ja venyttele";
+"leg.tip6.body" = "Avaa ristissä olevat jalat ja venyttele pohkeet — ristissä istuminen rajoittaa verenkiertoa.";
+
+/* Overlay */
+"overlay.title" = "Katso muualle %d sekunnin ajan";
+"overlay.subtitle" = "Keskity johonkin noin 20 jalan etäisyydellä";
+"overlay.skip" = "Ohita";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Näyttötauko- ja verenkiertomuistutukset";
+"prefs.section.eyes" = "SILMÄT";
+"prefs.eye_interval" = "Muistuta minua katsomaan muualle joka";
+"prefs.eye_break_duration" = "Katso muualle";
+"prefs.show_overlay" = "Näytä taukokortti näytöllä";
+"prefs.play_sound" = "Toista ääni muistutusten yhteydessä";
+"prefs.section.legs" = "JALAT";
+"prefs.leg_interval" = "Muistuta minua liikkumaan joka";
+"prefs.section.general" = "YLEINEN";
+"prefs.launch_at_login" = "Käynnistä kirjautumisen yhteydessä";
+"prefs.pause_reminders" = "Tauota kaikki muistutukset";
+"prefs.take_eye_break" = "Pidä silmätauko nyt";
+"prefs.take_leg_break" = "Jalkatauko nyt";
+"prefs.version" = "Versio %@";
+"prefs.disclaimer" = "Yleiset hyvinvointimuistutukset — ei lääketieteellinen neuvo.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sek";
+"popup.sec.30" = "30 sek";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sek";

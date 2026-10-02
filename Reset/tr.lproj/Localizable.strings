@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Hatırlatıcılar duraklatıldı";
+"status.eyes_in" = "%d dk içinde göz";
+"status.legs_in" = "%d dk içinde bacak";
+"status.running" = "Çalışıyor";
+
+/* Menu */
+"menu.eye_break_now" = "Şimdi göz molası ver";
+"menu.leg_break_now" = "Şimdi bacak hareketi molası";
+"menu.preferences" = "Tercihler…";
+"menu.quit" = "Eye & Leg Care'den çık";
+
+/* Notifications */
+"notif.eye.title" = "20-20-20 molası zamanı 👁";
+"notif.eye.body" = "%d saniye boyunca ~20 fit (6 m) uzaktaki bir şeye bakın.";
+"notif.leg.title" = "Bacak bakımı: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Kalk ve hareket et";
+"leg.tip1.body" = "Kalk ve bir dakika yürü. Hareket, kanı bacaklarına geri pompalar.";
+"leg.tip2.title" = "Topuk kaldırma";
+"leg.tip2.body" = "15–20 yavaş topuk kaldırma: parmak uçlarına yüksel, sonra in. Venöz dönüşe yardımcı olur.";
+"leg.tip3.title" = "Ayak bileği pompaları";
+"leg.tip3.body" = "Ayaklarını 20 kez ileri geri hareket ettir, sonra ayak bileklerini her iki yönde döndür.";
+"leg.tip4.title" = "Bacaklarını yükselt";
+"leg.tip4.body" = "Drenajı desteklemek için bacaklarını birkaç dakika kalp seviyesinin üstüne koy.";
+"leg.tip5.title" = "Kısa bir yürüyüş yap";
+"leg.tip5.body" = "Su almak için yapılan yürüyüş bile sayılır. Uzun süre hareketsiz oturmaktan kaçın.";
+"leg.tip6.title" = "Bacakları aç ve ger";
+"leg.tip6.body" = "Bacaklarını iç içe geçirmeden baldırlarını ger — içe geçirme kan akışını kısıtlar.";
+
+/* Overlay */
+"overlay.title" = "%d saniye boyunca uzağa bak";
+"overlay.subtitle" = "~20 fit uzaktaki bir şeye odaklan";
+"overlay.skip" = "Atla";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Ekran molası ve dolaşım hatırlatıcıları";
+"prefs.section.eyes" = "GÖZLER";
+"prefs.eye_interval" = "Her şu kadar uzağa bakmamı hatırlat";
+"prefs.eye_break_duration" = "Uzağa bak";
+"prefs.show_overlay" = "Ekranda mola kartını göster";
+"prefs.play_sound" = "Hatırlatıcılarla ses çal";
+"prefs.section.legs" = "BACAKLAR";
+"prefs.leg_interval" = "Her şu kadar hareket etmemi hatırlat";
+"prefs.section.general" = "GENEL";
+"prefs.launch_at_login" = "Oturum açarken başlat";
+"prefs.pause_reminders" = "Tüm hatırlatıcıları duraklat";
+"prefs.take_eye_break" = "Şimdi göz molası ver";
+"prefs.take_leg_break" = "Şimdi bacak molası";
+"prefs.version" = "Sürüm %@";
+"prefs.disclaimer" = "Genel sağlık hatırlatıcıları — tıbbi tavsiye değildir.";
+
+/* Time popup options */
+"popup.min.15" = "15 dk";
+"popup.min.20" = "20 dk";
+"popup.min.25" = "25 dk";
+"popup.min.30" = "30 dk";
+"popup.min.45" = "45 dk";
+"popup.min.60" = "60 dk";
+"popup.sec.20" = "20 sn";
+"popup.sec.30" = "30 sn";
+"popup.minutes_format" = "%d dk";
+"popup.seconds_format" = "%d sn";

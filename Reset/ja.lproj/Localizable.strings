@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "リマインダーを一時停止中";
+"status.eyes_in" = "%d分後に目のケア";
+"status.legs_in" = "%d分後に脚のケア";
+"status.running" = "実行中";
+
+/* Menu */
+"menu.eye_break_now" = "今すぐ目を休める";
+"menu.leg_break_now" = "今すぐ脚の運動休憩";
+"menu.preferences" = "環境設定…";
+"menu.quit" = "Eye & Leg Careを終了";
+
+/* Notifications */
+"notif.eye.title" = "20-20-20休憩の時間です 👁";
+"notif.eye.body" = "%d秒間、約20フィート（6m）先のものを見てください。";
+"notif.leg.title" = "脚のケア：%@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "立ち上がって動く";
+"leg.tip1.body" = "1分間立って歩きましょう。動くことで脚に血液が戻ります。";
+"leg.tip2.title" = "カーフレイズ";
+"leg.tip2.body" = "15〜20回のゆっくりしたカーフレイズ：つま先立ちになり、ゆっくり下ろします。静脈還流を助けます。";
+"leg.tip3.title" = "足首のポンプ運動";
+"leg.tip3.body" = "足首を上下に20回曲げ伸ばしし、次に両方向に回します。";
+"leg.tip4.title" = "脚を高く上げる";
+"leg.tip4.body" = "脚を心臓より高い位置に数分間置いて、血液の流れを助けましょう。";
+"leg.tip5.title" = "少し歩く";
+"leg.tip5.body" = "水を取りに行くだけでも効果的です。長時間じっと座るのを避けましょう。";
+"leg.tip6.title" = "足を組まずに伸ばす";
+"leg.tip6.body" = "足を組まずにふくらはぎを伸ばしましょう。足を組むと血流が制限されます。";
+
+/* Overlay */
+"overlay.title" = "%d秒間、目を休める";
+"overlay.subtitle" = "約20フィート先のものに視点を合わせましょう";
+"overlay.skip" = "スキップ";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "スクリーン休憩と血行促進のリマインダー";
+"prefs.section.eyes" = "目";
+"prefs.eye_interval" = "次の間隔で目を休めるよう通知する";
+"prefs.eye_break_duration" = "目を休める時間";
+"prefs.show_overlay" = "画面に休憩カードを表示";
+"prefs.play_sound" = "リマインダーと一緒に音を鳴らす";
+"prefs.section.legs" = "脚";
+"prefs.leg_interval" = "次の間隔で動くよう通知する";
+"prefs.section.general" = "一般";
+"prefs.launch_at_login" = "ログイン時に起動";
+"prefs.pause_reminders" = "すべてのリマインダーを一時停止";
+"prefs.take_eye_break" = "今すぐ目を休める";
+"prefs.take_leg_break" = "今すぐ脚を休める";
+"prefs.version" = "バージョン %@";
+"prefs.disclaimer" = "一般的な健康リマインダー — 医療アドバイスではありません。";
+
+/* Time popup options */
+"popup.min.15" = "15分";
+"popup.min.20" = "20分";
+"popup.min.25" = "25分";
+"popup.min.30" = "30分";
+"popup.min.45" = "45分";
+"popup.min.60" = "60分";
+"popup.sec.20" = "20秒";
+"popup.sec.30" = "30秒";
+"popup.minutes_format" = "%d分";
+"popup.seconds_format" = "%d秒";

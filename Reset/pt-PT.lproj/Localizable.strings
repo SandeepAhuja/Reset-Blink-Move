@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Lembretes em pausa";
+"status.eyes_in" = "Olhos em %d min";
+"status.legs_in" = "Pernas em %d min";
+"status.running" = "Em execução";
+
+/* Menu */
+"menu.eye_break_now" = "Fazer pausa para os olhos agora";
+"menu.leg_break_now" = "Pausa de movimento das pernas agora";
+"menu.preferences" = "Preferências…";
+"menu.quit" = "Sair do Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Hora de uma pausa 20-20-20 👁";
+"notif.eye.body" = "Olhe para algo a ~20 pés (6 m) de distância durante %d segundos.";
+"notif.leg.title" = "Cuidado com as pernas: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Levante-se e mexa-se";
+"leg.tip1.body" = "Levante-se e caminhe durante um minuto. O movimento bombeia sangue de volta para as pernas.";
+"leg.tip2.title" = "Elevações de gémeos";
+"leg.tip2.body" = "15–20 elevações lentas de gémeos: suba nas pontas dos pés, depois desça. Ajuda no retorno venoso.";
+"leg.tip3.title" = "Bombas de tornozelo";
+"leg.tip3.body" = "Aponte e flexione os pés 20 vezes, depois rode os tornozelos nas duas direções.";
+"leg.tip4.title" = "Eleve as pernas";
+"leg.tip4.body" = "Apoie as pernas acima do nível do coração durante alguns minutos para ajudar a drenagem.";
+"leg.tip5.title" = "Dê uma caminhada curta";
+"leg.tip5.body" = "Até uma caminhada para buscar água conta. Evite ficar parado durante longos períodos.";
+"leg.tip6.title" = "Descruce e alongue";
+"leg.tip6.body" = "Descruce as pernas e alongue as barrigas das pernas — cruzar restringe o fluxo sanguíneo.";
+
+/* Overlay */
+"overlay.title" = "Olhe para longe durante %d segundos";
+"overlay.subtitle" = "Foque em algo a ~20 pés de distância";
+"overlay.skip" = "Saltar";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Lembretes de pausa no ecrã e circulação";
+"prefs.section.eyes" = "OLHOS";
+"prefs.eye_interval" = "Lembrar-me de olhar para longe de";
+"prefs.eye_break_duration" = "Olhar para longe durante";
+"prefs.show_overlay" = "Mostrar o cartão de pausa no ecrã";
+"prefs.play_sound" = "Reproduzir um som com os lembretes";
+"prefs.section.legs" = "PERNAS";
+"prefs.leg_interval" = "Lembrar-me de me mover de";
+"prefs.section.general" = "GERAL";
+"prefs.launch_at_login" = "Iniciar ao entrar";
+"prefs.pause_reminders" = "Colocar todos os lembretes em pausa";
+"prefs.take_eye_break" = "Fazer pausa para os olhos agora";
+"prefs.take_leg_break" = "Pausa para as pernas agora";
+"prefs.version" = "Versão %@";
+"prefs.disclaimer" = "Lembretes gerais de bem-estar — não é conselho médico.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 seg";
+"popup.sec.30" = "30 seg";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d seg";

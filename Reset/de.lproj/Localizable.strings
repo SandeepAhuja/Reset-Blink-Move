@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Erinnerungen pausiert";
+"status.eyes_in" = "Augen in %d Min";
+"status.legs_in" = "Beine in %d Min";
+"status.running" = "Aktiv";
+
+/* Menu */
+"menu.eye_break_now" = "Jetzt eine Augenpause einlegen";
+"menu.leg_break_now" = "Jetzt Beinbewegungspause";
+"menu.preferences" = "Einstellungen…";
+"menu.quit" = "Eye & Leg Care beenden";
+
+/* Notifications */
+"notif.eye.title" = "Zeit für eine 20-20-20-Pause 👁";
+"notif.eye.body" = "Schaue %d Sekunden lang auf etwas in ca. 20 Fuß (6 m) Entfernung.";
+"notif.leg.title" = "Beinpflege: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Aufstehen und bewegen";
+"leg.tip1.body" = "Steh auf und lauf eine Minute. Bewegung pumpt Blut zurück in deine Beine.";
+"leg.tip2.title" = "Zehenstand-Übungen";
+"leg.tip2.body" = "15–20 langsame Zehenstand-Übungen: auf Zehenspitzen stellen, dann absenken. Fördert den Venenrückfluss.";
+"leg.tip3.title" = "Knöchelpumpen";
+"leg.tip3.body" = "Füße 20 Mal strecken und beugen, dann Knöchel in beide Richtungen rollen.";
+"leg.tip4.title" = "Beine hochlegen";
+"leg.tip4.body" = "Lege die Beine ein paar Minuten über Herzhöhe, um den Abfluss zu fördern.";
+"leg.tip5.title" = "Kurzer Spaziergang";
+"leg.tip5.body" = "Sogar ein Weg zum Wasserholen zählt. Vermeide langes Sitzen ohne Bewegung.";
+"leg.tip6.title" = "Beine lösen und strecken";
+"leg.tip6.body" = "Hör auf, die Beine zu überkreuzen, und strecke die Waden — Überkreuzen schränkt den Blutfluss ein.";
+
+/* Overlay */
+"overlay.title" = "Schaue %d Sekunden weg";
+"overlay.subtitle" = "Konzentriere dich auf etwas ca. 20 Fuß entfernt";
+"overlay.skip" = "Überspringen";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Erinnerungen für Bildschirmpausen und Durchblutung";
+"prefs.section.eyes" = "AUGEN";
+"prefs.eye_interval" = "Erinnere mich, alle wegzuschauen";
+"prefs.eye_break_duration" = "Wegschauen für";
+"prefs.show_overlay" = "Pausenkarte auf dem Bildschirm anzeigen";
+"prefs.play_sound" = "Ton bei Erinnerungen abspielen";
+"prefs.section.legs" = "BEINE";
+"prefs.leg_interval" = "Erinnere mich, mich alle zu bewegen";
+"prefs.section.general" = "ALLGEMEIN";
+"prefs.launch_at_login" = "Bei Anmeldung starten";
+"prefs.pause_reminders" = "Alle Erinnerungen pausieren";
+"prefs.take_eye_break" = "Jetzt Augenpause einlegen";
+"prefs.take_leg_break" = "Jetzt Beinpause";
+"prefs.version" = "Version %@";
+"prefs.disclaimer" = "Allgemeine Wellnesserinnerungen — kein medizinischer Rat.";
+
+/* Time popup options */
+"popup.min.15" = "15 Min";
+"popup.min.20" = "20 Min";
+"popup.min.25" = "25 Min";
+"popup.min.30" = "30 Min";
+"popup.min.45" = "45 Min";
+"popup.min.60" = "60 Min";
+"popup.sec.20" = "20 Sek";
+"popup.sec.30" = "30 Sek";
+"popup.minutes_format" = "%d Min";
+"popup.seconds_format" = "%d Sek";

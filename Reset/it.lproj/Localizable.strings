@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Promemoria in pausa";
+"status.eyes_in" = "Occhi tra %d min";
+"status.legs_in" = "Gambe tra %d min";
+"status.running" = "In esecuzione";
+
+/* Menu */
+"menu.eye_break_now" = "Fai una pausa per gli occhi ora";
+"menu.leg_break_now" = "Pausa movimento gambe ora";
+"menu.preferences" = "Preferenze…";
+"menu.quit" = "Esci da Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Ora di una pausa 20-20-20 👁";
+"notif.eye.body" = "Guarda qualcosa a ~20 piedi (6 m) di distanza per %d secondi.";
+"notif.leg.title" = "Cura delle gambe: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Alzati e muoviti";
+"leg.tip1.body" = "Alzati e cammina per un minuto. Il movimento pompa il sangue di ritorno nelle gambe.";
+"leg.tip2.title" = "Sollevamenti sui talloni";
+"leg.tip2.body" = "15–20 lenti sollevamenti sui talloni: alzati sulle punte, poi abbassati. Aiuta il ritorno venoso.";
+"leg.tip3.title" = "Pompe alla caviglia";
+"leg.tip3.body" = "Punta e piega i piedi 20 volte, poi ruota le caviglie in entrambe le direzioni.";
+"leg.tip4.title" = "Eleva le gambe";
+"leg.tip4.body" = "Posiziona le gambe sopra il livello del cuore per qualche minuto per favorire il drenaggio.";
+"leg.tip5.title" = "Fai una breve passeggiata";
+"leg.tip5.body" = "Anche andare a prendere dell'acqua conta. Evita di stare seduto fermo a lungo.";
+"leg.tip6.title" = "Scroccia e stira";
+"leg.tip6.body" = "Scroccia le gambe e stira i polpacci — incrociare le gambe limita il flusso sanguigno.";
+
+/* Overlay */
+"overlay.title" = "Guarda lontano per %d secondi";
+"overlay.subtitle" = "Concentrati su qualcosa a ~20 piedi di distanza";
+"overlay.skip" = "Salta";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Promemoria per pause dallo schermo e circolazione";
+"prefs.section.eyes" = "OCCHI";
+"prefs.eye_interval" = "Ricordami di guardare lontano ogni";
+"prefs.eye_break_duration" = "Guarda lontano per";
+"prefs.show_overlay" = "Mostra la scheda pausa sullo schermo";
+"prefs.play_sound" = "Riproduci un suono con i promemoria";
+"prefs.section.legs" = "GAMBE";
+"prefs.leg_interval" = "Ricordami di muovermi ogni";
+"prefs.section.general" = "GENERALE";
+"prefs.launch_at_login" = "Avvia all'accesso";
+"prefs.pause_reminders" = "Metti in pausa tutti i promemoria";
+"prefs.take_eye_break" = "Fai una pausa per gli occhi ora";
+"prefs.take_leg_break" = "Pausa gambe ora";
+"prefs.version" = "Versione %@";
+"prefs.disclaimer" = "Promemoria generali per il benessere — non un consiglio medico.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sec";
+"popup.sec.30" = "30 sec";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sec";

@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "תזכורות מושהות";
+"status.eyes_in" = "עיניים בעוד %d דקות";
+"status.legs_in" = "רגליים בעוד %d דקות";
+"status.running" = "פועל";
+
+/* Menu */
+"menu.eye_break_now" = "קח הפסקה לעיניים עכשיו";
+"menu.leg_break_now" = "הפסקת תנועת רגליים עכשיו";
+"menu.preferences" = "העדפות…";
+"menu.quit" = "צא מ-Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "זמן להפסקת 20-20-20 👁";
+"notif.eye.body" = "הסתכל על משהו במרחק ~20 רגל (6 מ׳) במשך %d שניות.";
+"notif.leg.title" = "טיפול ברגליים: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "קום והתנועע";
+"leg.tip1.body" = "קום ולך לדקה. תנועה מסייעת לזרימת דם חזרה לרגליים.";
+"leg.tip2.title" = "הרמת עקבים";
+"leg.tip2.body" = "15–20 הרמות עקבים איטיות: עמוד על קצות האצבעות, אחר כך רד. עוזר לחזרה ורידית.";
+"leg.tip3.title" = "שאיבת קרסול";
+"leg.tip3.body" = "הצבע וכופף את הרגליים 20 פעמים, ואז גלגל את הקרסוליים בשני הכיוונים.";
+"leg.tip4.title" = "הרם את הרגליים";
+"leg.tip4.body" = "הנח את הרגליים מעל גובה הלב למספר דקות לסיוע בניקוז.";
+"leg.tip5.title" = "צא להליכה קצרה";
+"leg.tip5.body" = "אפילו הליכה לקחת מים נחשבת. הימנע מישיבה ממושכת ללא תנועה.";
+"leg.tip6.title" = "פתח ומתח";
+"leg.tip6.body" = "הסר את הכריכה הצולבת של הרגליים ומתח את השוקיים — כריכה מגבילה את הזרימה.";
+
+/* Overlay */
+"overlay.title" = "הסתכל הרחק למשך %d שניות";
+"overlay.subtitle" = "התמקד במשהו במרחק ~20 רגל";
+"overlay.skip" = "דלג";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "תזכורות להפסקות מסך ומחזור דם";
+"prefs.section.eyes" = "עיניים";
+"prefs.eye_interval" = "הזכר לי להסתכל הרחק כל";
+"prefs.eye_break_duration" = "הסתכל הרחק למשך";
+"prefs.show_overlay" = "הצג כרטיס הפסקה על המסך";
+"prefs.play_sound" = "הפעל צליל עם תזכורות";
+"prefs.section.legs" = "רגליים";
+"prefs.leg_interval" = "הזכר לי להתנועע כל";
+"prefs.section.general" = "כללי";
+"prefs.launch_at_login" = "הפעל בכניסה";
+"prefs.pause_reminders" = "השהה את כל התזכורות";
+"prefs.take_eye_break" = "קח הפסקה לעיניים עכשיו";
+"prefs.take_leg_break" = "הפסקת רגליים עכשיו";
+"prefs.version" = "גרסה %@";
+"prefs.disclaimer" = "תזכורות כלליות לבריאות — לא ייעוץ רפואי.";
+
+/* Time popup options */
+"popup.min.15" = "15 דקות";
+"popup.min.20" = "20 דקות";
+"popup.min.25" = "25 דקות";
+"popup.min.30" = "30 דקות";
+"popup.min.45" = "45 דקות";
+"popup.min.60" = "60 דקות";
+"popup.sec.20" = "20 שניות";
+"popup.sec.30" = "30 שניות";
+"popup.minutes_format" = "%d דקות";
+"popup.seconds_format" = "%d שניות";

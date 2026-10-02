@@ -1,0 +1,65 @@
+/* Status bar */
+"status.paused" = "Podsjetnici su pauzirani";
+"status.eyes_in" = "Oči za %d min";
+"status.legs_in" = "Noge za %d min";
+"status.running" = "Aktivno";
+
+/* Menu */
+"menu.eye_break_now" = "Uzmi pauzu za oči sada";
+"menu.leg_break_now" = "Pauza za kretanje nogu sada";
+"menu.preferences" = "Postavke…";
+"menu.quit" = "Zatvori Eye & Leg Care";
+
+/* Notifications */
+"notif.eye.title" = "Vrijeme za 20-20-20 pauzu 👁";
+"notif.eye.body" = "Gledaj nešto na ~20 stopa (6 m) udaljenosti %d sekundi.";
+"notif.leg.title" = "Njega nogu: %@ 🦵";
+
+/* Leg tips */
+"leg.tip1.title" = "Ustani i kreni";
+"leg.tip1.body" = "Ustani i hodaj minutu. Kretanje pumpa krv natrag u noge.";
+"leg.tip2.title" = "Ustajanje na prste";
+"leg.tip2.body" = "15–20 sporih ustajanja na prste: podignite se na prste, zatim spustite. Pomaže venskom povratku.";
+"leg.tip3.title" = "Pumpe za gležnjeve";
+"leg.tip3.body" = "Savijaj i ispruži stopala 20 puta, a zatim kružite gležnjevima u oba smjera.";
+"leg.tip4.title" = "Podignite noge";
+"leg.tip4.body" = "Podignite noge iznad razine srca nekoliko minuta kako biste olakšali drenažu.";
+"leg.tip5.title" = "Kratka šetnja";
+"leg.tip5.body" = "Čak i hodanje po vodu se računa. Izbjegavajte sjedenje dugo bez kretanja.";
+"leg.tip6.title" = "Raskrižite i protegnite";
+"leg.tip6.body" = "Raskrižite noge i protegnite listove — križ ograničava protok krvi.";
+
+/* Overlay */
+"overlay.title" = "Gledaj drugdje %d sekundi";
+"overlay.subtitle" = "Usredotoči se na nešto na ~20 stopa udaljenosti";
+"overlay.skip" = "Preskoči";
+
+/* Preferences window */
+"prefs.app_name" = "Eye & Leg Care";
+"prefs.subtitle" = "Podsjetnici za pauze od zaslona i cirkulaciju";
+"prefs.section.eyes" = "OČI";
+"prefs.eye_interval" = "Podsjetite me da gledam drugdje svakih";
+"prefs.eye_break_duration" = "Gledaj drugdje";
+"prefs.show_overlay" = "Prikaži karticu pauze na zaslonu";
+"prefs.play_sound" = "Reproduciraj zvuk uz podsjetnike";
+"prefs.section.legs" = "NOGE";
+"prefs.leg_interval" = "Podsjetite me da se pokrenem svakih";
+"prefs.section.general" = "OPĆE";
+"prefs.launch_at_login" = "Pokretanje pri prijavi";
+"prefs.pause_reminders" = "Pauziraj sve podsjetnike";
+"prefs.take_eye_break" = "Uzmi pauzu za oči sada";
+"prefs.take_leg_break" = "Pauza za noge sada";
+"prefs.version" = "Verzija %@";
+"prefs.disclaimer" = "Opći podsjetnici za dobrobit — ne medicinski savjet.";
+
+/* Time popup options */
+"popup.min.15" = "15 min";
+"popup.min.20" = "20 min";
+"popup.min.25" = "25 min";
+"popup.min.30" = "30 min";
+"popup.min.45" = "45 min";
+"popup.min.60" = "60 min";
+"popup.sec.20" = "20 sek";
+"popup.sec.30" = "30 sek";
+"popup.minutes_format" = "%d min";
+"popup.seconds_format" = "%d sek";
