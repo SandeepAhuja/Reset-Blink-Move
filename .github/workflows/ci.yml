@@ -1,0 +1,48 @@
+name: CI
+
+# Runs only on pull requests into main or develop (see docs/decisions/0001).
+# Pushes to feature branches and merges do not trigger a macOS build.
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened, ready_for_review]
+
+# A new push to the same PR cancels the older run.
+concurrency:
+  group: ci-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+# Least privilege: this workflow only needs to read the repo. No secrets used.
+permissions:
+  contents: read
+
+jobs:
+  build-and-test:
+    # Skip draft PRs; CI starts when the PR is marked "Ready for review".
+    if: github.event.pull_request.draft == false
+    runs-on: macos-26
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Show Xcode version
+        run: xcodebuild -version
+
+      - name: Build and run unit tests
+        run: |
+          xcodebuild test \
+            -project Reset.xcodeproj \
+            -scheme Reset \
+            -destination 'platform=macOS' \
+            -only-testing:ResetTests \
+            -resultBundlePath TestResults.xcresult \
+            CODE_SIGNING_ALLOWED=NO
+
+      # Runs even when tests fail, which is when the results are most useful.
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: TestResults.xcresult
+          retention-days: 7
